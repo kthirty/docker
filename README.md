@@ -1,0 +1,3 @@
+这里存放一些常用的应用在docker中部署的所需文件(docker-compose.yml或者dockerfile)
+
+项目中所有已_开头的文件夹或者文件名都是为了忽略git提交
