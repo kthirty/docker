@@ -1,41 +1,56 @@
-version: '2'
+
+version: '3.5'
 services:
-  #Service for nameserver
-  namesrv:
-    image: rocketmqinc/rocketmq
+  rmqnamesrv:
+    image: foxiswho/rocketmq:server
     container_name: rmqnamesrv
     ports:
       - 9876:9876
     volumes:
-      - ./data/namesrv/logs:/home/rocketmq/logs
-    environment:
-      - MAX_POSSIBLE_HEAP:100000000
-    command: sh mqnamesrv
+      - ./data/logs:/opt/logs
+      - ./data/store:/opt/store
+    networks:
+        rmq:
+          aliases:
+            - rmqnamesrv
 
-  #Service for broker
-  broker:
-    image: rocketmqinc/rocketmq
+  rmqbroker:
+    image: foxiswho/rocketmq:broker
     container_name: rmqbroker
-    links:
-      - namesrv
     ports:
       - 10909:10909
       - 10911:10911
-      - 10912:10912
-    environment:
-      - NAMESRV_ADDR=namesrv:9876
     volumes:
-      - ./data/broker/logs:/home/rocketmq/logs
-      - ./data/broker/store:/home/rocketmq/store
-      - ./data/broker/conf/broker.conf:/opt/rocketmq/conf/broker.conf
-    command: sh mqbroker -c /opt/rocketmq/conf/broker.conf
+      - ./data/logs:/opt/logs
+      - ./data/store:/opt/store
+      - ./data/brokerconf/broker.conf:/etc/rocketmq/broker.conf
+    environment:
+        NAMESRV_ADDR: "rmqnamesrv:9876"
+        JAVA_OPTS: " -Duser.home=/opt"
+        JAVA_OPT_EXT: "-server -Xms128m -Xmx128m -Xmn128m"
+    command: mqbroker -c /etc/rocketmq/broker.conf
+    depends_on:
+      - rmqnamesrv
+    networks:
+      rmq:
+        aliases:
+          - rmqbroker
 
-  console:
+  rmqconsole:
     image: styletang/rocketmq-console-ng
-    container_name: rocketmq-console
-    links:
-      - namesrv
+    container_name: rmqconsole
     ports:
       - 8080:8080
     environment:
-        - JAVA_OPTS=-Drocketmq.namesrv.addr=namesrv:9876 -Dcom.rocketmq.sendMessageWithVIPChannel=false
+        JAVA_OPTS: "-Drocketmq.namesrv.addr=rmqnamesrv:9876 -Dcom.rocketmq.sendMessageWithVIPChannel=false"
+    depends_on:
+      - rmqnamesrv
+    networks:
+      rmq:
+        aliases:
+          - rmqconsole
+
+networks:
+  rmq:
+    name: rmq
+    driver: bridge
