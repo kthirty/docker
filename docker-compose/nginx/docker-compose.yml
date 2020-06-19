@@ -1,0 +1,13 @@
+version: '3'
+services: 
+  nginx: 
+    image: nginx:latest
+    restart: always
+    ports:
+      - 80:80 # 
+      - 443:443 # ssl 端口
+    volumes:
+      - ./conf.d:/etc/nginx/conf.d # 配置文件
+      - ./_log:/var/log/nginx # 日志
+      - ./www:/var/www # 静态网站
+      - /etc/letsencrypt:/etc/letsencrypt # 证书
