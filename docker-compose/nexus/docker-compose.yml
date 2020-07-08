@@ -1,0 +1,12 @@
+version: '3.5'
+services:
+  nexus:
+    restart: always
+    image: sonatype/nexus3:3.23.0
+    container_name: nexus
+    environment:
+      INSTALL4J_ADD_VM_PARAMS: -XX:ActiveProcessorCount=4
+    ports:
+      - 80:8081
+    volumes:
+      - ./_data:/nexus-data
