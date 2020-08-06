@@ -1,0 +1,4 @@
+2020-08-06 18:43:26,507 INFO Current addressing mode selection : StandaloneMemberLookup
+
+2020-08-06 18:43:26,553 WARN [serverlist] updated to : [Member{address='c6aff0dc0168:8848'}]
+

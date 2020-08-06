@@ -1,0 +1,50 @@
+2020-07-30 20:36:07,395 INFO raft peers changed: [Member{address='c6aff0dc0168:8848'}]
+
+2020-07-30 20:36:07,506 INFO initializing Raft sub-system
+
+2020-07-30 20:36:07,510 INFO raft notifier started
+
+2020-07-30 20:36:07,566 INFO finish loading all datums, size: 0 cost 56 ms.
+
+2020-07-30 20:36:07,569 INFO cache loaded, datum count: 0, current term: 0
+
+2020-07-30 20:36:07,569 INFO finish to load data from disk, cost: 59 ms.
+
+2020-07-30 20:36:07,590 INFO timer started: leader timeout ms: 15000, heart-beat timeout ms: 5000
+
+2020-07-30 20:36:10,263 INFO add listener: com.alibaba.nacos.naming.domains.meta.00-00---000-NACOS_SWITCH_DOMAIN-000---00-00
+
+2020-07-30 20:36:10,364 INFO add listener: com.alibaba.nacos.naming.domains.meta.
+
+2020-07-30 20:37:32,764 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@demo-alibaba-dubbo-provider
+
+2020-07-30 20:41:00,359 INFO add task com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@demo-alibaba-dubbo-provider
+
+2020-07-30 20:41:00,359 INFO data removed, key=com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@demo-alibaba-dubbo-provider, term=0
+
+2020-07-30 20:41:00,360 INFO remove task com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@demo-alibaba-dubbo-provider
+
+2020-07-30 20:41:00,360 INFO [RAFT-NOTIFIER] datum is deleted, key: com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@demo-alibaba-dubbo-provider
+
+2020-07-30 20:41:00,360 INFO add task com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@demo-alibaba-dubbo-provider
+
+2020-07-30 20:41:00,360 INFO data removed, key=com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@demo-alibaba-dubbo-provider, term=0
+
+2020-07-30 20:41:00,363 INFO remove task com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@demo-alibaba-dubbo-provider
+
+2020-07-30 20:50:56,605 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@demo-alibaba-dubbo-provider-with-core
+
+2020-07-30 21:00:30,357 INFO add task com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@demo-alibaba-dubbo-provider-with-core
+
+2020-07-30 21:00:30,358 INFO remove task com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@demo-alibaba-dubbo-provider-with-core
+
+2020-07-30 21:00:30,358 INFO [RAFT-NOTIFIER] datum is deleted, key: com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@demo-alibaba-dubbo-provider-with-core
+
+2020-07-30 21:00:30,359 INFO data removed, key=com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@demo-alibaba-dubbo-provider-with-core, term=0
+
+2020-07-30 21:00:30,359 INFO add task com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@demo-alibaba-dubbo-provider-with-core
+
+2020-07-30 21:00:30,359 INFO data removed, key=com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@demo-alibaba-dubbo-provider-with-core, term=0
+
+2020-07-30 21:00:30,359 INFO remove task com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@demo-alibaba-dubbo-provider-with-core
+

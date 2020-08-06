@@ -1,0 +1,8 @@
+version: '3.5'
+services:
+  sentinel:
+    restart: always
+    image: bladex/sentinel-dashboard:latest
+    container_name: sentinel
+    ports:
+      - 8858:8858

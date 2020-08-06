@@ -1,0 +1,112 @@
+2020-07-31 02:10:59,733 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@demo-alibaba-dubbo-provider-with-core
+
+2020-07-31 02:22:20,108 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@demo-alibaba-dubbo-consumer-with-core
+
+2020-07-31 02:28:30,362 INFO add task com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@demo-alibaba-dubbo-consumer-with-core
+
+2020-07-31 02:28:30,365 INFO data removed, key=com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@demo-alibaba-dubbo-consumer-with-core, term=0
+
+2020-07-31 02:28:30,365 INFO add task com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@demo-alibaba-dubbo-provider-with-core
+
+2020-07-31 02:28:30,367 INFO remove task com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@demo-alibaba-dubbo-consumer-with-core
+
+2020-07-31 02:28:30,367 INFO [RAFT-NOTIFIER] datum is deleted, key: com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@demo-alibaba-dubbo-consumer-with-core
+
+2020-07-31 02:28:30,367 INFO data removed, key=com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@demo-alibaba-dubbo-provider-with-core, term=0
+
+2020-07-31 02:28:30,368 INFO add task com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@demo-alibaba-dubbo-consumer-with-core
+
+2020-07-31 02:28:30,368 INFO data removed, key=com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@demo-alibaba-dubbo-consumer-with-core, term=0
+
+2020-07-31 02:28:30,368 INFO remove task com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@demo-alibaba-dubbo-provider-with-core
+
+2020-07-31 02:28:30,368 INFO [RAFT-NOTIFIER] datum is deleted, key: com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@demo-alibaba-dubbo-provider-with-core
+
+2020-07-31 02:28:30,368 INFO add task com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@demo-alibaba-dubbo-provider-with-core
+
+2020-07-31 02:28:30,368 INFO data removed, key=com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@demo-alibaba-dubbo-provider-with-core, term=0
+
+2020-07-31 02:28:30,368 INFO remove task com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@demo-alibaba-dubbo-consumer-with-core
+
+2020-07-31 02:28:30,368 INFO remove task com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@demo-alibaba-dubbo-provider-with-core
+
+2020-07-31 02:58:36,302 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@demo-alibaba-dubbo-provider-with-core
+
+2020-07-31 02:58:54,168 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@demo-alibaba-dubbo-consumer-with-core
+
+2020-07-31 03:08:30,358 INFO add task com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@demo-alibaba-dubbo-consumer-with-core
+
+2020-07-31 03:08:30,359 INFO remove task com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@demo-alibaba-dubbo-consumer-with-core
+
+2020-07-31 03:08:30,360 INFO [RAFT-NOTIFIER] datum is deleted, key: com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@demo-alibaba-dubbo-consumer-with-core
+
+2020-07-31 03:08:30,360 INFO data removed, key=com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@demo-alibaba-dubbo-consumer-with-core, term=0
+
+2020-07-31 03:08:30,360 INFO add task com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@demo-alibaba-dubbo-provider-with-core
+
+2020-07-31 03:08:30,368 INFO data removed, key=com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@demo-alibaba-dubbo-provider-with-core, term=0
+
+2020-07-31 03:08:30,369 INFO add task com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@demo-alibaba-dubbo-consumer-with-core
+
+2020-07-31 03:08:30,369 INFO data removed, key=com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@demo-alibaba-dubbo-consumer-with-core, term=0
+
+2020-07-31 03:08:30,369 INFO remove task com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@demo-alibaba-dubbo-provider-with-core
+
+2020-07-31 03:08:30,369 INFO [RAFT-NOTIFIER] datum is deleted, key: com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@demo-alibaba-dubbo-provider-with-core
+
+2020-07-31 03:08:30,369 INFO add task com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@demo-alibaba-dubbo-provider-with-core
+
+2020-07-31 03:08:30,369 INFO data removed, key=com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@demo-alibaba-dubbo-provider-with-core, term=0
+
+2020-07-31 03:08:30,369 INFO remove task com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@demo-alibaba-dubbo-consumer-with-core
+
+2020-07-31 03:08:30,369 INFO remove task com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@demo-alibaba-dubbo-provider-with-core
+
+2020-07-31 03:13:55,453 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@demo-alibaba-dubbo-consumer-with-core
+
+2020-07-31 03:14:41,335 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@demo-alibaba-dubbo-provider-with-core
+
+2020-07-31 06:43:30,367 INFO add task com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@demo-alibaba-dubbo-consumer-with-core
+
+2020-07-31 06:43:30,376 INFO remove task com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@demo-alibaba-dubbo-consumer-with-core
+
+2020-07-31 06:43:30,377 INFO [RAFT-NOTIFIER] datum is deleted, key: com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@demo-alibaba-dubbo-consumer-with-core
+
+2020-07-31 06:43:30,380 INFO data removed, key=com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@demo-alibaba-dubbo-consumer-with-core, term=0
+
+2020-07-31 06:43:30,380 INFO add task com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@demo-alibaba-dubbo-consumer-with-core
+
+2020-07-31 06:43:30,381 INFO data removed, key=com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@demo-alibaba-dubbo-consumer-with-core, term=0
+
+2020-07-31 06:43:30,388 INFO remove task com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@demo-alibaba-dubbo-consumer-with-core
+
+2020-07-31 06:46:02,881 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@demo-alibaba-dubbo-consumer-with-core
+
+2020-07-31 06:53:00,357 INFO add task com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@demo-alibaba-dubbo-consumer-with-core
+
+2020-07-31 06:53:00,358 INFO remove task com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@demo-alibaba-dubbo-consumer-with-core
+
+2020-07-31 06:53:00,358 INFO [RAFT-NOTIFIER] datum is deleted, key: com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@demo-alibaba-dubbo-consumer-with-core
+
+2020-07-31 06:53:00,358 INFO data removed, key=com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@demo-alibaba-dubbo-consumer-with-core, term=0
+
+2020-07-31 06:53:00,358 INFO add task com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@demo-alibaba-dubbo-consumer-with-core
+
+2020-07-31 06:53:00,358 INFO data removed, key=com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@demo-alibaba-dubbo-consumer-with-core, term=0
+
+2020-07-31 06:53:00,359 INFO remove task com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@demo-alibaba-dubbo-consumer-with-core
+
+2020-07-31 06:53:30,359 INFO add task com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@demo-alibaba-dubbo-provider-with-core
+
+2020-07-31 06:53:30,359 INFO remove task com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@demo-alibaba-dubbo-provider-with-core
+
+2020-07-31 06:53:30,359 INFO [RAFT-NOTIFIER] datum is deleted, key: com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@demo-alibaba-dubbo-provider-with-core
+
+2020-07-31 06:53:30,360 INFO data removed, key=com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@demo-alibaba-dubbo-provider-with-core, term=0
+
+2020-07-31 06:53:30,362 INFO add task com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@demo-alibaba-dubbo-provider-with-core
+
+2020-07-31 06:53:30,362 INFO data removed, key=com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@demo-alibaba-dubbo-provider-with-core, term=0
+
+2020-07-31 06:53:30,362 INFO remove task com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@demo-alibaba-dubbo-provider-with-core
+

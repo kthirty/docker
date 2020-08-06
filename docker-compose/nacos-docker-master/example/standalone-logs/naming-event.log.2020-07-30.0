@@ -1,0 +1,30 @@
+2020-07-30 20:37:32,844 INFO DEFAULT_GROUP@@demo-alibaba-dubbo-provider {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [10.20.10.72:8848:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-07-30 20:37:32,860 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@demo-alibaba-dubbo-provider, ips: 10.20.10.72:8848_true,
+
+2020-07-30 20:38:17,773 INFO {POS} {IP-DISABLED} valid: 10.20.10.72:8848@DEFAULT@DEFAULT_GROUP@@demo-alibaba-dubbo-provider, region: unknown, msg: client timeout after 15000, last beat: 1596112677780
+
+2020-07-30 20:38:32,966 INFO DEFAULT_GROUP@@demo-alibaba-dubbo-provider {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [10.20.10.72:8848:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-07-30 20:38:32,966 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@demo-alibaba-dubbo-provider, ips: 
+
+2020-07-30 20:50:56,612 INFO DEFAULT_GROUP@@demo-alibaba-dubbo-provider-with-core {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [10.20.10.72:8848:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-07-30 20:50:56,612 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@demo-alibaba-dubbo-provider-with-core, ips: 10.20.10.72:8848_true,
+
+2020-07-30 20:52:01,618 INFO {POS} {IP-DISABLED} valid: 10.20.10.72:8848@DEFAULT@DEFAULT_GROUP@@demo-alibaba-dubbo-provider-with-core, region: unknown, msg: client timeout after 15000, last beat: 1596113501726
+
+2020-07-30 20:52:16,626 INFO DEFAULT_GROUP@@demo-alibaba-dubbo-provider-with-core {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [10.20.10.72:8848:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-07-30 20:52:16,626 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@demo-alibaba-dubbo-provider-with-core, ips: 
+
+2020-07-30 20:52:18,743 INFO DEFAULT_GROUP@@demo-alibaba-dubbo-provider-with-core {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [10.20.10.72:8848:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-07-30 20:52:18,743 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@demo-alibaba-dubbo-provider-with-core, ips: 10.20.10.72:8848_true,
+
+2020-07-30 20:58:01,672 INFO {POS} {IP-DISABLED} valid: 10.20.10.72:8848@DEFAULT@DEFAULT_GROUP@@demo-alibaba-dubbo-provider-with-core, region: unknown, msg: client timeout after 15000, last beat: 1596113864474
+
+2020-07-30 20:58:16,689 INFO DEFAULT_GROUP@@demo-alibaba-dubbo-provider-with-core {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [10.20.10.72:8848:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-07-30 20:58:16,689 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@demo-alibaba-dubbo-provider-with-core, ips: 
+
