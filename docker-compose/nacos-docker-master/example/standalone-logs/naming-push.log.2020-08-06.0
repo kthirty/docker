@@ -1,0 +1,22 @@
+2020-08-06 20:49:07,402 INFO DEFAULT_GROUP@@demo-alibaba-dubbo-consumer-with-core is changed, add it to push queue.
+
+2020-08-06 20:49:35,780 INFO DEFAULT_GROUP@@demo-alibaba-dubbo-provider-with-core is changed, add it to push queue.
+
+2020-08-06 20:58:10,845 INFO DEFAULT_GROUP@@demo-alibaba-dubbo-provider-with-core is changed, add it to push queue.
+
+2020-08-06 20:58:10,855 INFO serviceName: DEFAULT_GROUP@@demo-alibaba-dubbo-provider-with-core changed, schedule push for: 192.168.126.1:62252, agent: Nacos-Java-Client:v1.2.1, key: 192.168.126.1,62252,8178899081264
+
+2020-08-06 20:58:10,855 INFO send udp packet: 192.168.126.1,62252,8178899081264
+
+2020-08-06 20:58:10,866 INFO received ack: {"type": "push-ack", "lastRefTime":"8178899081264", "data":""} from: 192.168.126.1:62252, cost: 11 ms, unacked: 0, total push: 1
+
+2020-08-06 20:58:26,173 INFO DEFAULT_GROUP@@demo-alibaba-dubbo-provider-with-core is changed, add it to push queue.
+
+2020-08-06 20:58:26,174 INFO serviceName: DEFAULT_GROUP@@demo-alibaba-dubbo-provider-with-core changed, schedule push for: 192.168.126.1:62252, agent: Nacos-Java-Client:v1.2.1, key: 192.168.126.1,62252,8194226776311
+
+2020-08-06 20:58:26,174 INFO send udp packet: 192.168.126.1,62252,8194226776311
+
+2020-08-06 20:58:26,181 INFO received ack: {"type": "push-ack", "lastRefTime":"8194226776311", "data":""} from: 192.168.126.1:62252, cost: 7 ms, unacked: 0, total push: 2
+
+2020-08-06 21:00:20,386 INFO DEFAULT_GROUP@@demo-alibaba-dubbo-consumer-with-core is changed, add it to push queue.
+

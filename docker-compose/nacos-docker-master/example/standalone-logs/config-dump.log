@@ -1,18 +1,18 @@
-2020-07-30 20:36:11,125 INFO [dump-all-ok] blade.yaml+DEFAULT_GROUP, 1594963015000, length=1603, md5=6c986635e1136bfa78232e9085f0ccc7
+2020-08-06 19:16:33,329 INFO [dump-all-ok] blade.yaml+DEFAULT_GROUP, 1594963015000, length=1603, md5=6c986635e1136bfa78232e9085f0ccc7
 
-2020-07-30 20:36:11,126 INFO [dump-all-ok] blade-dev.yaml+DEFAULT_GROUP, 1594963038000, length=615, md5=f83944adb72bc666ddfc023fdce3fa5e
+2020-08-06 19:16:33,333 INFO [dump-all-ok] blade-dev.yaml+DEFAULT_GROUP, 1594963038000, length=615, md5=f83944adb72bc666ddfc023fdce3fa5e
 
-2020-07-30 20:36:11,126 INFO [dump-all-ok] demo-boot-with-core.yaml+DEFAULT_GROUP, 1594968524000, length=15, md5=fed8401ff7ccf3de1b2d29bb99543026
+2020-08-06 19:16:33,333 INFO [dump-all-ok] demo-boot-with-core.yaml+DEFAULT_GROUP, 1594968524000, length=15, md5=fed8401ff7ccf3de1b2d29bb99543026
 
-2020-07-30 20:36:11,130 INFO [dump-all-ok] kthirty-demo-alibaba-dubbo-provider+mapping-com.alibaba.cloud.dubbo.service.DubboMetadataService, 1595057719000, length=251, md5=207d22d5d2686304374c42d96659f89d
+2020-08-06 19:16:33,333 INFO [dump-all-ok] kthirty-demo-alibaba-dubbo-provider+mapping-com.alibaba.cloud.dubbo.service.DubboMetadataService, 1595057719000, length=251, md5=207d22d5d2686304374c42d96659f89d
 
-2020-07-30 20:36:11,133 INFO [dump-all-ok] kthirty-demo-alibaba-dubbo-consumer+mapping-com.alibaba.cloud.dubbo.service.DubboMetadataService, 1595044722000, length=153, md5=2ed530995ac020105fcf11d226401ef9
+2020-08-06 19:16:33,333 INFO [dump-all-ok] kthirty-demo-alibaba-dubbo-consumer+mapping-com.alibaba.cloud.dubbo.service.DubboMetadataService, 1595044722000, length=153, md5=2ed530995ac020105fcf11d226401ef9
 
-2020-07-30 20:36:11,133 INFO [dump-all-ok] kthirty-demo-alibaba-dubbo-provider+mapping-top.kthirty.demo.alibaba.dubbo.provider.service.IEchoService, 1595057719000, length=97, md5=b31e49b8eb217ce3c16e890a70c36fd4
+2020-08-06 19:16:33,334 INFO [dump-all-ok] kthirty-demo-alibaba-dubbo-provider+mapping-top.kthirty.demo.alibaba.dubbo.provider.service.IEchoService, 1595057719000, length=97, md5=b31e49b8eb217ce3c16e890a70c36fd4
 
-2020-07-30 20:36:11,134 INFO [dump-all-ok] demo-alibaba-dubbo-provider-with-core+mapping-com.alibaba.cloud.dubbo.service.DubboMetadataService, 1595108922000, length=195, md5=1d6c5b19abe46056c1714f406e2d777b
+2020-08-06 19:16:33,338 INFO [dump-all-ok] demo-alibaba-dubbo-provider-with-core+mapping-com.alibaba.cloud.dubbo.service.DubboMetadataService, 1595108922000, length=195, md5=1d6c5b19abe46056c1714f406e2d777b
 
-2020-07-30 20:36:11,134 INFO [dump-all-ok] demo-alibaba-dubbo-provider-with-core+mapping-top.kthirty.demo.alibaba.dubbo.provider.service.IEchoService, 1595108922000, length=55, md5=2c4c57aad91e84a382ecb84150d733f8
+2020-08-06 19:16:33,340 INFO [dump-all-ok] demo-alibaba-dubbo-provider-with-core+mapping-top.kthirty.demo.alibaba.dubbo.provider.service.IEchoService, 1595108922000, length=55, md5=2c4c57aad91e84a382ecb84150d733f8
 
-2020-07-30 20:36:11,134 INFO [dump-all-ok] demo-alibaba-dubbo-consumer-with-core+mapping-com.alibaba.cloud.dubbo.service.DubboMetadataService, 1595109561000, length=27, md5=7ef644a520c3029c4e57382be86bc79b
+2020-08-06 19:16:33,340 INFO [dump-all-ok] demo-alibaba-dubbo-consumer-with-core+mapping-com.alibaba.cloud.dubbo.service.DubboMetadataService, 1595109561000, length=27, md5=7ef644a520c3029c4e57382be86bc79b
 

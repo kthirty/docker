@@ -1,112 +1,22 @@
-2020-07-31 02:11:00,751 INFO DEFAULT_GROUP@@demo-alibaba-dubbo-provider-with-core is changed, add it to push queue.
+2020-08-07 10:29:11,398 INFO DEFAULT_GROUP@@demo-alibaba-dubbo-consumer-with-core is changed, add it to push queue.
 
-2020-07-31 02:22:21,111 INFO DEFAULT_GROUP@@demo-alibaba-dubbo-consumer-with-core is changed, add it to push queue.
+2020-08-07 10:32:14,360 INFO DEFAULT_GROUP@@demo-alibaba-dubbo-consumer-with-core is changed, add it to push queue.
 
-2020-07-31 02:22:21,127 INFO serviceName: DEFAULT_GROUP@@demo-alibaba-dubbo-consumer-with-core changed, schedule push for: 10.20.10.72:53156, agent: Nacos-Java-Client:v1.2.1, key: 10.20.10.72,53156,28725854074712
+2020-08-07 10:32:29,390 INFO DEFAULT_GROUP@@demo-alibaba-dubbo-consumer-with-core is changed, add it to push queue.
 
-2020-07-31 02:22:21,127 INFO send udp packet: 10.20.10.72,53156,28725854074712
+2020-08-07 10:47:01,528 INFO DEFAULT_GROUP@@demo-alibaba-dubbo-consumer-with-core is changed, add it to push queue.
 
-2020-07-31 02:22:21,142 INFO received ack: {"type": "push-ack", "lastRefTime":"28725854074712", "data":""} from: 10.20.10.72:53156, cost: 15 ms, unacked: 0, total push: 1
+2020-08-07 10:47:16,550 INFO DEFAULT_GROUP@@demo-alibaba-dubbo-consumer-with-core is changed, add it to push queue.
 
-2020-07-31 02:26:05,915 INFO DEFAULT_GROUP@@demo-alibaba-dubbo-provider-with-core is changed, add it to push queue.
+2020-08-07 10:58:13,525 INFO DEFAULT_GROUP@@demo-alibaba-dubbo-consumer-with-core is changed, add it to push queue.
 
-2020-07-31 02:26:06,157 INFO DEFAULT_GROUP@@demo-alibaba-dubbo-consumer-with-core is changed, add it to push queue.
+2020-08-07 11:00:30,590 INFO DEFAULT_GROUP@@demo-alibaba-dubbo-consumer-with-core is changed, add it to push queue.
 
-2020-07-31 02:26:20,949 INFO DEFAULT_GROUP@@demo-alibaba-dubbo-provider-with-core is changed, add it to push queue.
+2020-08-07 11:01:02,171 INFO DEFAULT_GROUP@@demo-alibaba-dubbo-consumer-with-core is changed, add it to push queue.
 
-2020-07-31 02:26:21,164 INFO DEFAULT_GROUP@@demo-alibaba-dubbo-consumer-with-core is changed, add it to push queue.
+2020-08-07 11:01:03,630 INFO DEFAULT_GROUP@@demo-alibaba-dubbo-consumer-with-core is changed, add it to push queue.
 
-2020-07-31 02:58:37,328 INFO DEFAULT_GROUP@@demo-alibaba-dubbo-provider-with-core is changed, add it to push queue.
+2020-08-07 11:01:22,155 INFO DEFAULT_GROUP@@demo-alibaba-dubbo-consumer-with-core is changed, add it to push queue.
 
-2020-07-31 02:58:55,171 INFO DEFAULT_GROUP@@demo-alibaba-dubbo-consumer-with-core is changed, add it to push queue.
-
-2020-07-31 02:59:40,177 INFO DEFAULT_GROUP@@demo-alibaba-dubbo-consumer-with-core is changed, add it to push queue.
-
-2020-07-31 02:59:55,184 INFO DEFAULT_GROUP@@demo-alibaba-dubbo-consumer-with-core is changed, add it to push queue.
-
-2020-07-31 02:59:55,185 INFO serviceName: DEFAULT_GROUP@@demo-alibaba-dubbo-consumer-with-core changed, schedule push for: 10.20.10.72:62137, agent: Nacos-Java-Client:v1.2.1, key: 10.20.10.72,62137,30979927030751
-
-2020-07-31 02:59:55,185 INFO send udp packet: 10.20.10.72,62137,30979927030751
-
-2020-07-31 02:59:55,195 INFO received ack: {"type": "push-ack", "lastRefTime":"30979927030751", "data":""} from: 10.20.10.72:62137, cost: 10 ms, unacked: 0, total push: 2
-
-2020-07-31 03:01:05,616 INFO DEFAULT_GROUP@@demo-alibaba-dubbo-consumer-with-core is changed, add it to push queue.
-
-2020-07-31 03:01:05,616 INFO serviceName: DEFAULT_GROUP@@demo-alibaba-dubbo-consumer-with-core changed, schedule push for: 10.20.10.72:62137, agent: Nacos-Java-Client:v1.2.1, key: 10.20.10.72,62137,31050358186700
-
-2020-07-31 03:01:05,616 INFO send udp packet: 10.20.10.72,62137,31050358186700
-
-2020-07-31 03:01:05,626 INFO received ack: {"type": "push-ack", "lastRefTime":"31050358186700", "data":""} from: 10.20.10.72:62137, cost: 10 ms, unacked: 0, total push: 3
-
-2020-07-31 03:03:20,232 INFO DEFAULT_GROUP@@demo-alibaba-dubbo-consumer-with-core is changed, add it to push queue.
-
-2020-07-31 03:03:20,233 INFO serviceName: DEFAULT_GROUP@@demo-alibaba-dubbo-consumer-with-core changed, schedule push for: 10.20.10.72:62137, agent: Nacos-Java-Client:v1.2.1, key: 10.20.10.72,62137,31184974916643
-
-2020-07-31 03:03:20,233 INFO send udp packet: 10.20.10.72,62137,31184974916643
-
-2020-07-31 03:03:20,238 INFO received ack: {"type": "push-ack", "lastRefTime":"31184974916643", "data":""} from: 10.20.10.72:62137, cost: 5 ms, unacked: 0, total push: 4
-
-2020-07-31 03:03:25,664 INFO DEFAULT_GROUP@@demo-alibaba-dubbo-consumer-with-core is changed, add it to push queue.
-
-2020-07-31 03:03:25,664 INFO serviceName: DEFAULT_GROUP@@demo-alibaba-dubbo-consumer-with-core changed, schedule push for: 10.20.10.72:62137, agent: Nacos-Java-Client:v1.2.1, key: 10.20.10.72,62137,31190406413685
-
-2020-07-31 03:03:25,664 INFO send udp packet: 10.20.10.72,62137,31190406413685
-
-2020-07-31 03:03:25,666 INFO received ack: {"type": "push-ack", "lastRefTime":"31190406413685", "data":""} from: 10.20.10.72:62137, cost: 2 ms, unacked: 0, total push: 5
-
-2020-07-31 03:06:02,387 INFO DEFAULT_GROUP@@demo-alibaba-dubbo-provider-with-core is changed, add it to push queue.
-
-2020-07-31 03:06:05,259 INFO DEFAULT_GROUP@@demo-alibaba-dubbo-consumer-with-core is changed, add it to push queue.
-
-2020-07-31 03:06:17,395 INFO DEFAULT_GROUP@@demo-alibaba-dubbo-provider-with-core is changed, add it to push queue.
-
-2020-07-31 03:06:20,269 INFO DEFAULT_GROUP@@demo-alibaba-dubbo-consumer-with-core is changed, add it to push queue.
-
-2020-07-31 03:13:56,456 INFO DEFAULT_GROUP@@demo-alibaba-dubbo-consumer-with-core is changed, add it to push queue.
-
-2020-07-31 03:14:42,340 INFO DEFAULT_GROUP@@demo-alibaba-dubbo-provider-with-core is changed, add it to push queue.
-
-2020-07-31 06:41:29,053 INFO DEFAULT_GROUP@@demo-alibaba-dubbo-consumer-with-core is changed, add it to push queue.
-
-2020-07-31 06:41:29,058 INFO serviceName: DEFAULT_GROUP@@demo-alibaba-dubbo-consumer-with-core changed, schedule push for: 10.20.10.72:59887, agent: Nacos-Java-Client:v1.2.1, key: 10.20.10.72,59887,44273797714331
-
-2020-07-31 06:41:29,058 INFO send udp packet: 10.20.10.72,59887,44273797714331
-
-2020-07-31 06:41:29,085 INFO received ack: {"type": "push-ack", "lastRefTime":"44273797714331", "data":""} from: 10.20.10.72:59887, cost: 27 ms, unacked: 0, total push: 6
-
-2020-07-31 06:41:45,876 INFO DEFAULT_GROUP@@demo-alibaba-dubbo-provider-with-core is changed, add it to push queue.
-
-2020-07-31 06:42:00,932 INFO DEFAULT_GROUP@@demo-alibaba-dubbo-provider-with-core is changed, add it to push queue.
-
-2020-07-31 06:42:10,256 INFO DEFAULT_GROUP@@demo-alibaba-dubbo-provider-with-core is changed, add it to push queue.
-
-2020-07-31 06:44:55,940 INFO DEFAULT_GROUP@@demo-alibaba-dubbo-provider-with-core is changed, add it to push queue.
-
-2020-07-31 06:45:10,961 INFO DEFAULT_GROUP@@demo-alibaba-dubbo-provider-with-core is changed, add it to push queue.
-
-2020-07-31 06:45:40,546 INFO DEFAULT_GROUP@@demo-alibaba-dubbo-provider-with-core is changed, add it to push queue.
-
-2020-07-31 06:46:03,946 INFO DEFAULT_GROUP@@demo-alibaba-dubbo-consumer-with-core is changed, add it to push queue.
-
-2020-07-31 06:49:36,591 INFO DEFAULT_GROUP@@demo-alibaba-dubbo-consumer-with-core is changed, add it to push queue.
-
-2020-07-31 06:49:57,599 INFO DEFAULT_GROUP@@demo-alibaba-dubbo-consumer-with-core is changed, add it to push queue.
-
-2020-07-31 06:49:57,608 INFO serviceName: DEFAULT_GROUP@@demo-alibaba-dubbo-consumer-with-core changed, schedule push for: 10.20.10.72:55312, agent: Nacos-Java-Client:v1.2.1, key: 10.20.10.72,55312,44782341282445
-
-2020-07-31 06:49:57,608 INFO send udp packet: 10.20.10.72,55312,44782341282445
-
-2020-07-31 06:49:57,622 INFO received ack: {"type": "push-ack", "lastRefTime":"44782341282445", "data":""} from: 10.20.10.72:55312, cost: 14 ms, unacked: 0, total push: 7
-
-2020-07-31 06:50:46,717 INFO DEFAULT_GROUP@@demo-alibaba-dubbo-consumer-with-core is changed, add it to push queue.
-
-2020-07-31 06:50:46,717 INFO serviceName: DEFAULT_GROUP@@demo-alibaba-dubbo-consumer-with-core changed, schedule push for: 10.20.10.72:55312, agent: Nacos-Java-Client:v1.2.1, key: 10.20.10.72,55312,44831459383527
-
-2020-07-31 06:50:46,717 INFO send udp packet: 10.20.10.72,55312,44831459383527
-
-2020-07-31 06:50:46,721 INFO received ack: {"type": "push-ack", "lastRefTime":"44831459383527", "data":""} from: 10.20.10.72:55312, cost: 4 ms, unacked: 0, total push: 8
-
-2020-07-31 06:51:00,997 INFO DEFAULT_GROUP@@demo-alibaba-dubbo-provider-with-core is changed, add it to push queue.
-
-2020-07-31 06:51:16,002 INFO DEFAULT_GROUP@@demo-alibaba-dubbo-provider-with-core is changed, add it to push queue.
+2020-08-07 11:04:36,514 INFO DEFAULT_GROUP@@demo-alibaba-dubbo-consumer-with-core is changed, add it to push queue.
 

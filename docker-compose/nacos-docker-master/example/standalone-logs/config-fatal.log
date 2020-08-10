@@ -13,3 +13,7 @@ java.lang.IllegalStateException: No DataSource set
 
 2020-08-06 18:43:55,713 ERROR [master-db] master db not found.
 
+2020-08-06 19:16:27,566 WARN [master-db] jdbc:mysql://mysql:3306/nacos_devtest?characterEncoding=utf8&connectTimeout=1000&socketTimeout=3000&autoReconnect=true
+
+2020-08-06 19:16:33,136 WARN isQuickStart:false
+

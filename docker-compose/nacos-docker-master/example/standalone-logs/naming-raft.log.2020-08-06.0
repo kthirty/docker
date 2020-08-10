@@ -1,0 +1,68 @@
+2020-08-06 18:43:27,073 INFO raft peers changed: [Member{address='c6aff0dc0168:8848'}]
+
+2020-08-06 18:43:27,261 INFO initializing Raft sub-system
+
+2020-08-06 18:43:27,271 INFO raft notifier started
+
+2020-08-06 18:43:27,283 INFO finish loading all datums, size: 0 cost 12 ms.
+
+2020-08-06 18:43:27,286 INFO cache loaded, datum count: 0, current term: 0
+
+2020-08-06 18:43:27,286 INFO finish to load data from disk, cost: 15 ms.
+
+2020-08-06 18:43:27,338 INFO timer started: leader timeout ms: 15000, heart-beat timeout ms: 5000
+
+2020-08-06 18:43:31,862 INFO add listener: com.alibaba.nacos.naming.domains.meta.00-00---000-NACOS_SWITCH_DOMAIN-000---00-00
+
+2020-08-06 18:43:32,027 INFO add listener: com.alibaba.nacos.naming.domains.meta.
+
+2020-08-06 19:16:29,935 INFO raft peers changed: [Member{address='44986194d6ef:8848'}]
+
+2020-08-06 19:16:30,036 INFO initializing Raft sub-system
+
+2020-08-06 19:16:30,042 INFO raft notifier started
+
+2020-08-06 19:16:30,056 INFO finish loading all datums, size: 0 cost 15 ms.
+
+2020-08-06 19:16:30,064 INFO cache loaded, datum count: 0, current term: 0
+
+2020-08-06 19:16:30,064 INFO finish to load data from disk, cost: 23 ms.
+
+2020-08-06 19:16:30,083 INFO timer started: leader timeout ms: 15000, heart-beat timeout ms: 5000
+
+2020-08-06 19:16:32,560 INFO add listener: com.alibaba.nacos.naming.domains.meta.00-00---000-NACOS_SWITCH_DOMAIN-000---00-00
+
+2020-08-06 19:16:32,636 INFO add listener: com.alibaba.nacos.naming.domains.meta.
+
+2020-08-06 20:49:05,792 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@demo-alibaba-dubbo-consumer-with-core
+
+2020-08-06 20:49:34,778 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@demo-alibaba-dubbo-provider-with-core
+
+2020-08-06 21:00:52,629 INFO add task com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@demo-alibaba-dubbo-provider-with-core
+
+2020-08-06 21:00:52,634 INFO data removed, key=com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@demo-alibaba-dubbo-provider-with-core, term=0
+
+2020-08-06 21:00:52,635 INFO remove task com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@demo-alibaba-dubbo-provider-with-core
+
+2020-08-06 21:00:52,635 INFO [RAFT-NOTIFIER] datum is deleted, key: com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@demo-alibaba-dubbo-provider-with-core
+
+2020-08-06 21:00:52,635 INFO add task com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@demo-alibaba-dubbo-provider-with-core
+
+2020-08-06 21:00:52,635 INFO data removed, key=com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@demo-alibaba-dubbo-provider-with-core, term=0
+
+2020-08-06 21:00:52,649 INFO remove task com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@demo-alibaba-dubbo-provider-with-core
+
+2020-08-06 21:02:22,628 INFO add task com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@demo-alibaba-dubbo-consumer-with-core
+
+2020-08-06 21:02:22,630 INFO remove task com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@demo-alibaba-dubbo-consumer-with-core
+
+2020-08-06 21:02:22,631 INFO [RAFT-NOTIFIER] datum is deleted, key: com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@demo-alibaba-dubbo-consumer-with-core
+
+2020-08-06 21:02:22,631 INFO data removed, key=com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@demo-alibaba-dubbo-consumer-with-core, term=0
+
+2020-08-06 21:02:22,631 INFO add task com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@demo-alibaba-dubbo-consumer-with-core
+
+2020-08-06 21:02:22,632 INFO data removed, key=com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@demo-alibaba-dubbo-consumer-with-core, term=0
+
+2020-08-06 21:02:22,632 INFO remove task com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@demo-alibaba-dubbo-consumer-with-core
+
